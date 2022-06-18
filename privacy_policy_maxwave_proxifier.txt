@@ -1,0 +1,15 @@
+Maxwave Proxifier Privacy Policy
+
+This privacy policy will help you understand how Maxwave Proxifier uses and protects the data you provide to us when you have Maxwave Proxifier running on your device.
+
+We reserve the right to change this policy when necessary, and you will be promptly updated. If you want to make sure that you are up to date with the latest change, we advice you to frequently visit this page.
+
+1. Do we collect any user data and what type of data is collected by Maxwave Proxifier
+Maxwave Proxifier do not collect any user data.
+
+2. Do we download any data anywhere
+Maxwave Proxifier does not download any data from the Internet, unless App users explicitly request, in which case data might be downloaded from the user-specified location. Maxwave Proxifier verified the legitimacy of any user-requested data, but users are expected to validate by themselves any contained information such as proxy server address and user authentication.
+
+3. Safeguarding and Securing the data
+All the information users provide to Maxwave Proxifier, including server address, username, password and server certificate, are stored locally on users' own device. None of this information is transmitted by Maxwave Proxifier to the author or any other third parties. Maxwave Proxifier does not ask for user's permission to collect any data.
+
