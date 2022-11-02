@@ -1,0 +1,14 @@
+Maxwave VPN Privacy Policy
+
+This privacy policy will help you understand how Maxwave VPN uses and protects the data you provide to us when you have Maxwave VPN running on your device.
+
+We reserve the right to change this policy when necessary, and you will be promptly updated. If you want to make sure that you are up to date with the latest change, we advice you to frequently visit this page.
+
+1. Do we collect any user data and what type of data is collected by Maxwave VPN
+Maxwave VPN does not collect any user data.
+
+2. Do we download any data anywhere
+Maxwave VPN downloads public information from Maxwave servers. All information is publicly available on the Internet and is vetted and processed before they are downloaded.
+
+3. Safeguarding and Securing the data
+Users are not required to provide information of any kind to run Maxwave VPN on their devices, nor does Maxwave VPN collect, save or transmit user data.
