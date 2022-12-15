@@ -24,6 +24,8 @@ Maxwave VPN is a simplified version of the proxifier. Rule sets are actively mai
 
 Maxwave VPN aims to minimize user efforts on configuration. The only configuration capability it provides is for users to specify their own DNS server.
 
+Maxwave VPN provdes support for Android devices, including phones, tablets and TVs. In addition, it supports **Mac OS, including both X86-based and the M1/M2-based Mac computers**.
+
 # Latest releases
 |Release name|Support OS|Version|Download|External link|
 |---|---|---|---|---|
