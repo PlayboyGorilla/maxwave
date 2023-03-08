@@ -29,7 +29,7 @@ Maxwave VPN provdes support for Android devices, including phones, tablets and T
 # Latest releases
 |Release name|Support OS|Version|Download|External link|
 |---|---|---|---|---|
-|Maxwave VPN for Mac v1.1.2|MacOS|1.1.2|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Mac_v1.1.2)|N/A|
+|Maxwave VPN for Mac v1.1.3|MacOS|1.1.3|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Mac_v1.1.3)|N/A|
 |Maxwave VPN for Windows x64 v1.0.0|Windows|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Windows_x64_v1.0.0)|N/A|
 |Maxwave VPN for Android v1.2.5|Android|1.2.5|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Android_v1.2.5)|[Google Play](https://play.google.com/store/apps/details?id=com.maxwave.vpn)|
 |Maxwave Proxifier for Android 1.3.18|Android|1.3.18|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_Android_v1.3.18)|[Google Play](https://play.google.com/store/apps/details?id=com.gorillakanzi.catrious)|
