@@ -13,8 +13,9 @@ As a hub to forward designated network traffic through user-designated proxy ser
 
 ```
 1. HTTPs/HTTP Connect
-2. Socks5
+2. SOCKS5
 3. Shadowsocks
+4. VMESS
 ```
 
 As of now, Maxwave Proxifier runs on Android devices, including phones, tablets and TVs. Support for other OS is being actively developed.
@@ -29,7 +30,7 @@ Maxwave VPN provdes support for Android devices, including phones, tablets and T
 # Latest releases
 |Release name|Support OS|Version|Download|External link|
 |---|---|---|---|---|
-|Maxwave VPN for Mac v1.2.3|MacOS|1.2.3|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Mac_v1.2.3)|N/A|
-|Maxwave VPN for Windows x64 v1.1.3|Windows|1.1.3|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Windows_x64_v1.1.3)|N/A|
+|Maxwave VPN for Mac v1.5.0|MacOS|1.5.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Mac_v1.5.0)|N/A|
+|Maxwave VPN for Windows x64 v1.5.0|Windows|1.5.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Windows_x64_v1.5.0)|N/A|
 |Maxwave VPN for Android v1.3.2|Android|1.3.2|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Android_v1.3.2)|[Google Play](https://play.google.com/store/apps/details?id=com.maxwave.vpn)|
 |Maxwave Proxifier for Android 1.4.2|Android|1.4.2|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_Android_v1.4.2)|[Google Play](https://play.google.com/store/apps/details?id=com.gorillakanzi.catrious)|
