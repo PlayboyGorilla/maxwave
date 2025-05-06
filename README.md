@@ -1,4 +1,4 @@
-[English](https://github.com/PlayboyGorilla/maxwave/blob/main/README_en.md)
+[**English**](https://github.com/PlayboyGorilla/maxwave/blob/main/README_en.md)
 
 # 关于Maxwave Proxifier
 Maxwave Proxifier是一个基于规则的隧道/代理客户端。它与流行的系列软件clash具有相同的功能，而Maxwave Proxifier使用C语言构造自身的内核，并以C++构造了自身的图形界面。技术栈的选择似的Maxwave Proxifier与同类产品相比具有很高的执行效率，并占用更小的内存。
