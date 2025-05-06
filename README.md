@@ -1,15 +1,9 @@
-# What is Maxwave Proxifier
-Maxwave Proxifier is a rule-based tunneling application. It offers flexible configuration capability that allows users to fully control the network traffic on their device. Specifically it offers following system-wide features:
+[English](https://github.com/PlayboyGorilla/maxwave/blob/main/README_en.md)
 
-```
-1. Certain sites or destination addresses can be blocked, allowing users to block malicious sites.
-2. Traffic to certain sites or destination addresses can go through a designated proxy server, allowing privacy protection or censorship circumvention
-3. A new DNS server can be specified by a user.
-```
+# 关于Maxwave Proxifier
+Maxwave Proxifier是一个基于规则的隧道/代理客户端。它与流行的系列软件clash具有相同的功能，而Maxwave Proxifier使用C语言构造自身的内核，并以C++构造了自身的图形界面。技术栈的选择似的Maxwave Proxifier与同类产品相比具有很高的执行效率，并占用更小的内存。
 
-Maxwave Proxifier applies different actions to network traffic strictly based on the rule deployed by the user.
-
-As a hub to forward designated network traffic through user-designated proxy servers, Maxwave Proxifier currently supports following proxy protocols:
+Maxwave Proxifier当前支持如下协议：
 
 ```
 1. SSH Tunnel
@@ -17,26 +11,22 @@ As a hub to forward designated network traffic through user-designated proxy ser
 3. SOCKS5
 4. Shadowsocks
 5. VMESS
-6. IMAP Tunnel (A home-made tunneling protocol that will soon be open-source)
+6. IMAP Tunnel (自制的代理协议，即将开源)
 ```
 
-As of now, Maxwave Proxifier runs on **Android** devices, including phones, tablets and TVs, **Windows for x86_64** and **MacOS for arm64 and x86_64**. Support for Linux is on its way.
+Maxwave Proxifier支持导入.conf格式，以及clash YAML格式的规则。
 
-# What is Maxwave VPN
-Maxwave VPN is a simplified version of the proxifier. Rule sets are actively maintained by the developer team, sparing users of efforts to maintain their own rule sets. Also proxy servers are provided by the developers who collect and scrutinize free proxy servers on the Internet. The scrutinization is run by both programs and humans, so as to ensure their safety.
+目前为止, Maxwave Proxifier支持的操作系统包括：**Android**, **x86_64的Windows**, 以及**Intel以及苹果M系列处理器的MacOS**. 对于Linux系统的支持很快就会释出。
 
-Maxwave VPN aims to minimize user efforts on configuration. The only configuration capability it provides is for users to specify their own DNS server.
+# Maxwave Proxifier的优势
+1. 支持SSH隧道
+2. 数据引擎由C代码写成，界面由C++写成。具有极高的执行效率和相对很小的内存使用。
 
-Maxwave VPN provdes support for Android devices, including phones, tablets and TVs. In addition, it supports Windows and ***Mac OS, including both X86-based and the M1/M2-based Mac computers***.
+# 关于 Maxwave VPN
+基于Maxwave Proxifier同款引擎的VPN引用。免费、免配置，下载可用的VPN. 目前支持的操作系统包括**Android**, **x86_64的Windows**, 以及**Intel以及苹果M系列处理器的MacOS**。
 
-# Why would you choose Maxwave Proxifier/VPN
-1. Maxwave is completely free and Ad-free.
-2. Maxwave has decent support of SSH tunnels, a protocol that is usually left out by similar products.
-3. Core codes are written in C, which brings highly efficient data processing, low memory consumption and extended battery life on mobile devices.
-4. The projects are being actively maintained.
-
-# Latest releases
-|Release name|Support OS|Version|Download|External link|
+# 下载
+|Release|操作系统|版本|下载链接|外部链接|
 |---|---|---|---|---|
 |Maxwave Proxifier for Windows|Windows for x86_64|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.0.0)|N/A|
 |Maxwave Proxifier for MacOS|MacOS for arm64 and x86_64|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.0.0)|N/A|
