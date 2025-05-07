@@ -30,6 +30,7 @@ Maxwave Proxifier支持导入.conf格式，以及clash YAML格式的规则。
 |---|---|---|---|---|
 |Maxwave Proxifier for Windows|Windows for x86_64|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.0.0)|N/A|
 |Maxwave Proxifier for MacOS|MacOS for arm64 and x86_64|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.0.0)|N/A|
+|Maxwave Proxifier for Linux|Debian/Ubuntu for x86_64|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.0.0)|N/A|
 |Maxwave Proxifier for Android|Android|1.6.9|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_Android_v1.6.9)|[Google Play](https://play.google.com/store/apps/details?id=com.gorillakanzi.catrious)|
 |Maxwave VPN for Mac|MacOS for arm64 and x86_64|1.6.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Mac_v1.6.0)|N/A|
 |Maxwave VPN for Windows|Windows for x86_64|1.6.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Windows_x64_v1.6.0)|N/A|
