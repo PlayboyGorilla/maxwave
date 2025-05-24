@@ -32,15 +32,17 @@ Maxwave VPN provdes support for Android devices, including phones, tablets and T
 # Why would you choose Maxwave Proxifier/VPN
 1. Maxwave is completely free and Ad-free.
 2. Maxwave has decent support of SSH tunnels, a protocol that is usually left out by similar products.
-3. Core codes are written in C, which brings highly efficient data processing, low memory consumption and extended battery life on mobile devices.
-4. The projects are being actively maintained.
+3. Maxwave supports proxy chains defined by any number of proxy servers of any types.
+4. Core codes are written in C, which brings highly efficient data processing, low memory consumption and extended battery life on mobile devices.
+5. The projects are being actively maintained.
 
 # Latest releases
 |Release name|Support OS|Version|Download|External link|
 |---|---|---|---|---|
-|Maxwave Proxifier for Windows|Windows for x86_64|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.0.0)|N/A|
-|Maxwave Proxifier for MacOS|MacOS for arm64 and x86_64|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.0.0)|N/A|
-|Maxwave Proxifier for Linux|Debian/Ubuntu for x86_64|1.0.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.0.0)|N/A|
+|Maxwave Proxifier for Windows|Windows for x86_64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.1.0)|N/A|
+|Maxwave Proxifier for MacOS|MacOS for arm64 and x86_64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.1.0)|N/A|
+|Maxwave Proxifier for Linux amd64|Debian/Ubuntu for amd64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.1.0)|N/A|
+|Maxwave Proxifier for Linux arm64|Debian/Ubuntu for arm64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.1.0)|N/A|
 |Maxwave Proxifier for Android|Android|1.6.9|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_Android_v1.6.9)|[Google Play](https://play.google.com/store/apps/details?id=com.gorillakanzi.catrious)|
 |Maxwave VPN for Mac|MacOS for arm64 and x86_64|1.6.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Mac_v1.6.0)|N/A|
 |Maxwave VPN for Windows|Windows for x86_64|1.6.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Windows_x64_v1.6.0)|N/A|
