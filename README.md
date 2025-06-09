@@ -9,9 +9,12 @@ Maxwave Proxifier当前支持如下协议：
 1. SSH Tunnel
 2. HTTPs/HTTP Connect
 3. SOCKS5
-4. Shadowsocks
-5. VMESS
-6. IMAP Tunnel (自制的代理协议，即将开源)
+4. SOCKS5 over TLS
+5. SOCKS4/4a
+6. Shadowsocks
+7. VMESS
+8. Trojan
+9. IMAP Tunnel (自制的代理协议，即将开源)
 ```
 
 Maxwave Proxifier支持导入.conf格式，以及clash YAML格式的规则。
@@ -30,9 +33,9 @@ Maxwave Proxifier支持导入.conf格式，以及clash YAML格式的规则。
 # 下载
 |Release|操作系统|版本|下载链接|外部链接|
 |---|---|---|---|---|
-|Maxwave Proxifier for Windows|Windows for x86_64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.1.0)|N/A|
-|Maxwave Proxifier for MacOS|MacOS for arm64 and x86_64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.1.0)|N/A|
-|Maxwave Proxifier for Linux amd64|Debian/Ubuntu for x86_64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.1.0)|N/A|
+|Maxwave Proxifier for Windows|Windows for x86_64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.2.0)|N/A|
+|Maxwave Proxifier for MacOS|MacOS for arm64 and x86_64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.2.0)|N/A|
+|Maxwave Proxifier for Linux amd64|Debian/Ubuntu for x86_64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.2.0)|N/A|
 |Maxwave Proxifier for Linux arm64|Debian/Ubuntu for aarch64/arm64|1.1.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_PC_v1.1.0)|N/A|
 |Maxwave Proxifier for Android|Android|1.6.9|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveProxifier_for_Android_v1.6.9)|[Google Play](https://play.google.com/store/apps/details?id=com.gorillakanzi.catrious)|
 |Maxwave VPN for Mac|MacOS for arm64 and x86_64|1.6.0|[Download](https://github.com/PlayboyGorilla/maxwave/releases/tag/MaxwaveVPN_for_Mac_v1.6.0)|N/A|
