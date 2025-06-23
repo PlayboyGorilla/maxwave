@@ -1,0 +1,13 @@
+# profile_101_proxy_all.yaml
+
+proxies:
+- name: 代理101 
+  type: trojan
+  server: 192.168.1.101
+  port: 443 
+  password: trojanpass
+  udp: true
+  sni: www.google.com
+
+rules:
+- FINAL,代理101
