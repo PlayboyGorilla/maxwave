@@ -27,6 +27,9 @@ As a hub to forward designated network traffic through user-designated proxy ser
 
 As of now, Maxwave Proxifier runs on **Android** devices, including phones, tablets and TVs, **Windows for x86_64** and **MacOS for arm64 and x86_64**. Support for Linux is on its way.
 
+# Tutorial
+[**Crash Course**](tutorial/101_zh.md)
+
 # What is Maxwave VPN
 Maxwave VPN is a simplified version of the proxifier. Rule sets are actively maintained by the developer team, sparing users of efforts to maintain their own rule sets. Also proxy servers are provided by the developers who collect and scrutinize free proxy servers on the Internet. The scrutinization is run by both programs and humans, so as to ensure their safety.
 
@@ -39,7 +42,8 @@ Maxwave VPN provdes support for Android devices, including phones, tablets and T
 2. Maxwave has decent support of SSH tunnels, a protocol that is usually left out by similar products.
 3. Maxwave supports proxy chains defined by any number of proxy servers of any types.
 4. Core codes are written in C, which brings highly efficient data processing, low memory consumption and extended battery life on mobile devices.
-5. The projects are being actively maintained.
+5. Strict privacy safety - DNS resolve is done strictly on the proxy server. 
+6. The projects are being actively maintained.
 
 # Latest releases
 |Release name|Support OS|Version|Download|External link|
