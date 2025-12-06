@@ -22,7 +22,8 @@ As a hub to forward designated network traffic through user-designated proxy ser
 6. Shadowsocks
 7. VMESS
 8. Trojan
-9. IMAP Tunnel (A home-made tunneling protocol that will soon be open-source)
+9. AnyTLS
+10. IMAP Tunnel (A home-made tunneling protocol that will soon be open-source)
 ```
 
 As of now, Maxwave Proxifier runs on **Android** devices, including phones, tablets and TVs, **Windows for x86_64** and **MacOS for arm64 and x86_64**. Support for Linux is on its way.

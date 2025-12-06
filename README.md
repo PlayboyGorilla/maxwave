@@ -14,7 +14,8 @@ Maxwave Proxifier当前支持如下协议：
 6. Shadowsocks
 7. VMESS
 8. Trojan
-9. IMAP Tunnel (自制的代理协议，即将开源)
+9. AnyTLS
+10. IMAP Tunnel (自制的代理协议，即将开源)
 ```
 
 Maxwave Proxifier支持导入.conf格式，以及clash YAML格式的规则。
