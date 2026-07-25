@@ -38,6 +38,11 @@ Maxwave VPN aims to minimize user efforts on configuration. The only configurati
 
 Maxwave VPN provdes support for Android devices, including phones, tablets and TVs. In addition, it supports Windows and ***Mac OS, including both X86-based and the M1/M2-based Mac computers***.
 
+# In memory of WangWnag and her children
+![WangWang](images/wangwang.jpeg)
+
+On June 28, 2026, in Pingpu Village, Jieyang, Guangdong, China, a stray mother dog locally known as WangWang and her three newborn puppies suffered a brutal attack by five local boys under the age of 14. The perpetrators dragged the mother dog with wire, beat the two-week-old puppies to death with wooden sticks, and poured a flammable liquid over the injured mother before setting her on fire. The boys filmed the gruesome acts, laughing and sharing the footage on social media, which quickly sparked intense domestic and international outrage. The five perpetrators get away with their brutal crimes without taking any legal responsibilities. This post here is in memory of the mother dog WangWang and her pupppies, who endured grave sufferings before they passed away.
+
 # Why would you choose Maxwave Proxifier/VPN
 1. Maxwave is completely free and Ad-free.
 2. Maxwave has decent support of SSH tunnels, a protocol that is usually left out by similar products.
